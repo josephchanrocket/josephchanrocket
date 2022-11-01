@@ -28,7 +28,7 @@
   </a>&nbsp;&nbsp;
     <!-- <a href="https://discordapp.com/users/aristoteles#0390">
     <img src="https://img.shields.io/badge/discord-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" />
-  </a>&nbsp;&nbsp; -->
+  </a>&nbsp;&nbsp; 
 </p>
 -->
 
