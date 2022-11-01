@@ -9,7 +9,7 @@
 </head>
 <body>
 
-### Hi there 👋 I'm Joseph Chan 🙂
+### Hi there 
 <div align="center">
 	<br>
   <img src="about-me.svg" width="800" height="auto" alt="Click to see the source">
@@ -17,7 +17,8 @@
 
 ### **Contact Me**
 
-<p align='center'>
+<!--
+	<p align='center'>
   <a href="https://t.me/JosephChan0122">
     <img src="https://img.shields.io/badge/telegram-26A5E4.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -28,6 +29,7 @@
     <img src="https://img.shields.io/badge/discord-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" />
   </a>&nbsp;&nbsp; -->
 </p>
+-->
 
 ### GitHub Status 😎
 <div id='profile-them'>
