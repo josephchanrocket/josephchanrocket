@@ -34,8 +34,8 @@
 
 ### GitHub Status 😎
 <div id='profile-them'>
-<!-- <a class='github-status' href='https://github.com/josephchanrocket'><img width="45%" src='https://github-readme-stats.vercel.app/api?username=josephchanrocket&show_icons=true&theme=radical' /> -->
-<a class='Most-used-languages' href='https://github.com/josephchanrocket'><img width="45%" id='github-status' src='https://github-readme-stats.vercel.app/api/top-langs/?username=josephchanrocket&layout=compact' />
+<!-- <a class='github-status' href='https://github.com/satelliterocketdev'><img width="45%" src='https://github-readme-stats.vercel.app/api?username=satelliterocketdev&show_icons=true&theme=radical' /> -->
+<a class='Most-used-languages' href='https://github.com/satelliterocketdev'><img width="45%" id='github-status' src='https://github-readme-stats.vercel.app/api/top-langs/?username=satelliterocketdev&layout=compact' />
 </div>
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=everest-dev0323&show_icons=true&theme=radical)](https://github.com/everest-dev0323)
